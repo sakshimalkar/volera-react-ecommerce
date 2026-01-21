@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/volera-react-ecommerce/static/css/main.3982bb5f.css",
-    "main.js": "/volera-react-ecommerce/static/js/main.0be0f278.js",
+    "main.js": "/volera-react-ecommerce/static/js/main.3026eaca.js",
     "static/media/phil.jpeg": "/volera-react-ecommerce/static/media/phil.f1c383f67003102996fb.jpeg",
     "static/media/banner.jpeg": "/volera-react-ecommerce/static/media/banner.77bb3e176c2c37d62adb.jpeg",
     "static/media/tops.jpeg": "/volera-react-ecommerce/static/media/tops.9736c8586de63dccc560.jpeg",
@@ -13,10 +13,10 @@
     "static/media/out1.jpeg": "/volera-react-ecommerce/static/media/out1.09c509332293c46965c6.jpeg",
     "index.html": "/volera-react-ecommerce/index.html",
     "main.3982bb5f.css.map": "/volera-react-ecommerce/static/css/main.3982bb5f.css.map",
-    "main.0be0f278.js.map": "/volera-react-ecommerce/static/js/main.0be0f278.js.map"
+    "main.3026eaca.js.map": "/volera-react-ecommerce/static/js/main.3026eaca.js.map"
   },
   "entrypoints": [
     "static/css/main.3982bb5f.css",
-    "static/js/main.0be0f278.js"
+    "static/js/main.3026eaca.js"
   ]
 }
