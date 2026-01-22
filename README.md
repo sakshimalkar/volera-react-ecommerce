@@ -1,12 +1,12 @@
 # 🛍️ VOLERA – React E-Commerce Website
 
-SIYA'S CHOICE is a modern, responsive fashion e-commerce web application built using **React**, **React Router**, and **Bootstrap**.  
+VOLERA is a modern, responsive fashion e-commerce web application built using **React**, **React Router**, and **Bootstrap**.  
 The project demonstrates a real-world shopping flow including product listing, add-to-cart functionality, and dynamic cart management.
 
 ---
 
 ## 🚀 Live Demo
-🔗 
+🔗 https://sakshimalkar.github.io/volera-react-ecommerce/
 *(Replace this with your actual Netlify/GitHub Pages link)*
 
 ---
@@ -27,7 +27,7 @@ The project demonstrates a real-world shopping flow including product listing, a
 - **Routing:** React Router DOM
 - **Styling:** Bootstrap 5
 - **State Management:** React `useState`
-- **Deployment:** Netlify / GitHub Pages
+- **Deployment:** GitHub Pages
 
 ---
 
