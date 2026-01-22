@@ -1,4 +1,4 @@
-# 🛍️ SIYA'S CHOICE – React E-Commerce Website
+# 🛍️ VOLERA – React E-Commerce Website
 
 SIYA'S CHOICE is a modern, responsive fashion e-commerce web application built using **React**, **React Router**, and **Bootstrap**.  
 The project demonstrates a real-world shopping flow including product listing, add-to-cart functionality, and dynamic cart management.
@@ -6,7 +6,7 @@ The project demonstrates a real-world shopping flow including product listing, a
 ---
 
 ## 🚀 Live Demo
-🔗 https://YOUR-LIVE-DEMO-LINK.netlify.app  
+🔗 
 *(Replace this with your actual Netlify/GitHub Pages link)*
 
 ---
