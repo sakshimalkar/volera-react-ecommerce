@@ -7,7 +7,6 @@ The project demonstrates a real-world shopping flow including product listing, a
 
 ## 🚀 Live Demo
 🔗 https://sakshimalkar.github.io/volera-react-ecommerce/
-*(Replace this with your actual Netlify/GitHub Pages link)*
 
 ---
 
