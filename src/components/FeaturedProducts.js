@@ -29,10 +29,7 @@ const FeaturedProducts = ({ addToCart }) => (
             <div className="card-body text-center">
               <h5>{prod.title}</h5>
               <p className="fw-bold">{prod.price}</p>
-              <button
-                className="btn btn-dark"
-                onClick={() => addToCart(prod)}
-              >
+              <button className="btn btn-dark" onClick={() => addToCart(prod)}>
                 Add to Cart
               </button>
             </div>
