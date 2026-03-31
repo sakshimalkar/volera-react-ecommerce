@@ -1,22 +1,30 @@
 {
   "files": {
-    "main.css": "/volera-react-ecommerce/static/css/main.3982bb5f.css",
-    "main.js": "/volera-react-ecommerce/static/js/main.3026eaca.js",
-    "static/media/phil.jpeg": "/volera-react-ecommerce/static/media/phil.f1c383f67003102996fb.jpeg",
-    "static/media/banner.jpeg": "/volera-react-ecommerce/static/media/banner.77bb3e176c2c37d62adb.jpeg",
-    "static/media/tops.jpeg": "/volera-react-ecommerce/static/media/tops.9736c8586de63dccc560.jpeg",
-    "static/media/out.jpeg": "/volera-react-ecommerce/static/media/out.a327533db32a16905a68.jpeg",
-    "static/media/knit2.jpeg": "/volera-react-ecommerce/static/media/knit2.7d0564eac45746697606.jpeg",
-    "static/media/suit.jpeg": "/volera-react-ecommerce/static/media/suit.aab59d99c2d7a9908db4.jpeg",
-    "static/media/access.jpeg": "/volera-react-ecommerce/static/media/access.fbf029a97b4a33632235.jpeg",
-    "static/media/knit.jpeg": "/volera-react-ecommerce/static/media/knit.ce6c357911deb4fa814c.jpeg",
-    "static/media/out1.jpeg": "/volera-react-ecommerce/static/media/out1.09c509332293c46965c6.jpeg",
-    "index.html": "/volera-react-ecommerce/index.html",
-    "main.3982bb5f.css.map": "/volera-react-ecommerce/static/css/main.3982bb5f.css.map",
-    "main.3026eaca.js.map": "/volera-react-ecommerce/static/js/main.3026eaca.js.map"
+    "main.css": "/volera--react-ecommerce/static/css/main.3982bb5f.css",
+    "main.js": "/volera--react-ecommerce/static/js/main.23b5fcb1.js",
+    "static/media/phil.jpeg": "/volera--react-ecommerce/static/media/phil.f1c383f67003102996fb.jpeg",
+    "static/media/Chunky Knit Sweater.jpeg": "/volera--react-ecommerce/static/media/Chunky Knit Sweater.51d0de7bfb06b256b6d7.jpeg",
+    "static/media/banner.jpeg": "/volera--react-ecommerce/static/media/banner.77bb3e176c2c37d62adb.jpeg",
+    "static/media/Soft Wool Sweater.jpeg": "/volera--react-ecommerce/static/media/Soft Wool Sweater.70aae0c16d373c24f4c5.jpeg",
+    "static/media/tops.jpeg": "/volera--react-ecommerce/static/media/tops.9736c8586de63dccc560.jpeg",
+    "static/media/out.jpeg": "/volera--react-ecommerce/static/media/out.a327533db32a16905a68.jpeg",
+    "static/media/knit2.jpeg": "/volera--react-ecommerce/static/media/knit2.7d0564eac45746697606.jpeg",
+    "static/media/suit.jpeg": "/volera--react-ecommerce/static/media/suit.aab59d99c2d7a9908db4.jpeg",
+    "static/media/access.jpeg": "/volera--react-ecommerce/static/media/access.fbf029a97b4a33632235.jpeg",
+    "static/media/Elegant Satin Top.jpeg": "/volera--react-ecommerce/static/media/Elegant Satin Top.863db85d18304cc614d2.jpeg",
+    "static/media/Winter Long Jacket.jpeg": "/volera--react-ecommerce/static/media/Winter Long Jacket.a91651d185b9fc321fec.jpeg",
+    "static/media/knit.jpeg": "/volera--react-ecommerce/static/media/knit.ce6c357911deb4fa814c.jpeg",
+    "static/media/Cotton Casual Shirt.jpeg": "/volera--react-ecommerce/static/media/Cotton Casual Shirt.dd3b45a0213bae76d34a.jpeg",
+    "static/media/Classic Trench Coat.jpeg": "/volera--react-ecommerce/static/media/Classic Trench Coat.108fcc06daacae0b65dd.jpeg",
+    "static/media/out1.jpeg": "/volera--react-ecommerce/static/media/out1.09c509332293c46965c6.jpeg",
+    "static/media/Formal Slim Pants.jpeg": "/volera--react-ecommerce/static/media/Formal Slim Pants.29d4d4e553234485d755.jpeg",
+    "static/media/Relaxed Fit Jeans.jpeg": "/volera--react-ecommerce/static/media/Relaxed Fit Jeans.7169bf485186981424d3.jpeg",
+    "index.html": "/volera--react-ecommerce/index.html",
+    "main.3982bb5f.css.map": "/volera--react-ecommerce/static/css/main.3982bb5f.css.map",
+    "main.23b5fcb1.js.map": "/volera--react-ecommerce/static/js/main.23b5fcb1.js.map"
   },
   "entrypoints": [
     "static/css/main.3982bb5f.css",
-    "static/js/main.3026eaca.js"
+    "static/js/main.23b5fcb1.js"
   ]
 }
