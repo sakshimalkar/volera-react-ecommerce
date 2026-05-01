@@ -10,7 +10,7 @@
 
 **A modern, minimal fashion e-commerce platform built with React.js**
 
-[🔴 Live Demo](https://sakshimalkar.github.io/volera-react-ecommerce) · [📂 View Code](https://github.com/sakshimalkar/volera-react-ecommerce) · [🐛 Report Bug](https://github.com/sakshimalkar/volera-react-ecommerce/issues)
+[🔴 Live Demo](https://sakshimalkar.github.io/volera-react-ecommerce) · [📂 View Code](https://github.com/sakshimalkar/volera-react-ecommerce) 
 
 </div>
 
@@ -69,8 +69,6 @@ npm install
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view it in browser.
-
 ---
 
 ## 💡 What I Learned
@@ -97,8 +95,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in browser.
 
 **Sakshi Malkar**
 - GitHub: [@sakshimalkar](https://github.com/sakshimalkar)
-- LinkedIn: [Your LinkedIn URL]
-- Email: your@email.com
+- LinkedIn: [https://www.linkedin.com/in/sakshi-malkar]
+- Email: sakshimalkar286@gmail.com
 
 ---
 
@@ -110,6 +108,3 @@ Open [http://localhost:3000](http://localhost:3000) to view it in browser.
 
 </div>
 
----
-
-## 📁 Project Structure
