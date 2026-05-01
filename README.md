@@ -20,7 +20,7 @@
 
 > *A clean, luxury fashion storefront — featuring product listings, cart, collections & newsletter.*
 
-![Volera Screenshot](./src/assets/screenshot.png)
+![Volera Screenshot](./src/assets/screenshot.jpeg)
 
 ---
 
